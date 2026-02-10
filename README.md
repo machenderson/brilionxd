@@ -113,4 +113,15 @@ In a professional trading environment, a detection is only the first step. You n
 > * **Adaptive Detection:** Uses Sigma-based volatility thresholds to minimize false positives.
 > * **Audit Ready:** Generates timestamped CSV/JSON reports for compliance.
 
+---
+[Brilonx analyzer](https://https://github.com/machenderson/brilionxa)：This is a simple but powerful script that can evaluate asset performance based on historical return data.
+
+[Brilionx FingerTrap](https://https://github.com/machenderson/brilionxf)：This tool identifies potential fat-finger incidents by detecting price deviations that significantly exceed typical market volatility within a narrow timeframe.
+
+[Brilionx DataFetcher](https://https://github.com/machenderson/brilionxd)：The tool now includes a robust exporting feature to save your findings as persistent files.
+
+[Brilionx CryptoPulse-Sentinel](https://https://github.com/machenderson/brilionxc)：This tool is divided into four distinct modules: ​Data Ingestion​, ​Quantitative Analysis​, ​Real-time Detection​, and ​Audit Export​.
+
+---
+
 ### BrilionX, MEV, and Mindedge Venture: A Triumvirate of Stock Market Success Stories
